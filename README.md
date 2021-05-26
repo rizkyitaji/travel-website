@@ -18,7 +18,7 @@
 <!-- ## Features -->
 
 ## Screenshots
-![Home](https://user-images.githubusercontent.com/83572055/119619293-09602100-be2e-11eb-9fe3-fea652d4497c.png)
+![Landing Page](https://user-images.githubusercontent.com/83572055/119624222-1cc1bb00-be33-11eb-819e-d2d7c4d3fb45.png)
 
 ## Project Status
 Project is : _In Progress_.
