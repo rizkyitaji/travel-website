@@ -1,5 +1,6 @@
 # Nomads
 > A travel website built with bootstrap.
+> Live demo [_here_](https://rizkyitaji.github.io/travel-website/).
 
 ## Table of Contents
 * [General Info](#general-information)
